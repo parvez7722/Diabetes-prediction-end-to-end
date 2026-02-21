@@ -21,5 +21,5 @@ This project predicts whether a person has diabetes using machine learning.
 
 ### Using Docker
 ```bash
-docker pull yourusername/diabetes-app
-docker run -p 8000:8000 yourusername/diabetes-app
+docker pull parvezmohammed381/diabetes-app:latest
+docker run -p 8000:8000 parvezmohammed381/diabetes-app
