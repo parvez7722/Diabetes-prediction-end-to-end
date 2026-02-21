@@ -1,0 +1,42 @@
+{
+    "jack": {
+        "pregnancies": 0,
+        "glucose": 1,
+        "bloodPressure": 1,
+        "skinThickness": 0,
+        "insulin": 0,
+        "bmi": 0.0,
+        "diabetesPedigreeFunction": 0.0,
+        "age": 18
+    },
+    "string": {
+        "pregnancies": 0,
+        "glucose": 1,
+        "bloodPressure": 1,
+        "skinThickness": 0,
+        "insulin": 0,
+        "bmi": 0.0,
+        "diabetesPedigreeFunction": 0.0,
+        "age": 1
+    },
+    "rose": {
+        "pregnancies": 0,
+        "glucose": 1,
+        "bloodPressure": 1,
+        "skinThickness": 0,
+        "insulin": 0,
+        "bmi": 0.0,
+        "diabetesPedigreeFunction": 0.0,
+        "age": 1
+    },
+    "king": {
+        "pregnancies": 0,
+        "glucose": 1,
+        "bloodPressure": 1,
+        "skinThickness": 0,
+        "insulin": 0,
+        "bmi": 0.0,
+        "diabetesPedigreeFunction": 0.0,
+        "age": 1
+    }
+}
